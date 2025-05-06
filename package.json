@@ -1,0 +1,19 @@
+{
+  "name": "project2_day3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "saloni saboo",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10",
+    "sequelize": "^6.37.7"
+  }
+}
